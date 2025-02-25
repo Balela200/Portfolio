@@ -29,7 +29,7 @@ export default function Header() {
         <div className="flex items-center justify-between">
           <a href="/" className="flex items-center space-x-2">
             <Shield className="w-8 h-8 text-tactical-red" />
-            <span className="font-military text-xl">DELTA OPS</span>
+            <span className="font-military text-xl">Mohanad Khalifa</span>
           </a>
 
           {/* Desktop Menu */}

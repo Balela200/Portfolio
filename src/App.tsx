@@ -25,7 +25,7 @@ function App() {
       </Routes>
       <footer className="bg-tactical-black text-white py-6">
         <div className="container mx-auto px-6 text-center font-military">
-          <p>&copy; {new Date().getFullYear()} DELTA FORCE. ALL RIGHTS RESERVED.</p>
+          <p>&copy; {new Date().getFullYear()} Mohanad Khalifa. ALL RIGHTS RESERVED.</p>
         </div>
       </footer>
     </div>
