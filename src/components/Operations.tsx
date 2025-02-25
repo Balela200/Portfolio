@@ -41,7 +41,7 @@ export default function Operations() {
             <Link
               key={index}
               to={op.link}
-              className="group bg-tactical-black rounded-sm border-l-4 border-tactical-red hover:transform hover:-translate-y-2 transition-all duration-300 overflow-hidden cursor-pointer"
+              className="group bg-tactical-black rounded-sm border-l-4 border-tactical-red hover:transform hover:-translate-y-2 transition-all duration-300 overflow-hidden"
             >
               <div className="relative h-48 overflow-hidden">
                 <img

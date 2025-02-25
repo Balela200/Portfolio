@@ -3,7 +3,7 @@ import { Gamepad2, Mail, Linkedin, MapPin } from 'lucide-react';
 
 export default function Hero() {
   return (
-    <section className="min-h-screen flex items-center justify-center bg-tactical-black text-white relative overflow-hidden">
+    <section id="mission" className="min-h-screen flex items-center justify-center bg-tactical-black text-white relative overflow-hidden">
       <div className="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1511512578047-dfb367046420?auto=format&fit=crop&q=80')] bg-cover bg-center opacity-20"></div>
       
       <div className="container mx-auto px-6 py-24 relative z-10">
@@ -40,7 +40,7 @@ export default function Hero() {
             </p>
           </div>
 
-          <div className="grid md:grid-cols-2 gap-8">
+          <div id="arsenal" className="grid md:grid-cols-2 gap-8">
             <div>
               <h2 className="text-2xl font-military text-tactical-red mb-6">Experience</h2>
               <div className="space-y-6">
