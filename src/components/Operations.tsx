@@ -26,6 +26,18 @@ export default function Operations() {
       description: 'Solo-developed game completed in one week, featuring unique gameplay mechanics and innovative design.',
       image: 'https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&q=80',
       link: '/zombie-project'
+    },
+    {
+      title: 'NEBULA DRIFT',
+      description: 'VR space exploration game with realistic physics and stunning visuals. Navigate through asteroid fields and discover ancient artifacts.',
+      image: 'https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&q=80',
+      link: '/project-one'
+    },
+    {
+      title: 'ECHO WARRIORS',
+      description: 'Multiplayer rhythm-combat game where music affects gameplay mechanics. Features procedurally generated levels and dynamic combat.',
+      image: 'https://images.unsplash.com/photo-1514533212735-5df27d970db9?auto=format&fit=crop&q=80',
+      link: '/project-two'
     }
   ];
 
@@ -36,7 +48,7 @@ export default function Operations() {
           PROJECTS
         </h2>
         
-        <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
+        <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
           {operations.map((op, index) => (
             <Link
               key={index}

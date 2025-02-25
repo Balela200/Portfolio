@@ -34,18 +34,18 @@ export default function SaifPage() {
       description: 'A thrilling survival game developed in one week. Face hordes of zombies while managing resources and finding a way to escape.'
     },
     '/project-one': {
-      title: 'ZOMBIE PROJECT',
-      image: 'https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&q=80',
-      github: 'https://github.com/yourusername/zombie-project',
-      behance: 'https://www.behance.net/gallery/zombie-project',
-      description: 'A thrilling survival game developed in one week. Face hordes of zombies while managing resources and finding a way to escape.'
+      title: 'NEBULA DRIFT',
+      image: 'https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&q=80',
+      github: 'https://github.com/yourusername/nebula-drift',
+      behance: 'https://www.behance.net/gallery/nebula-drift',
+      description: 'An immersive VR space exploration game that puts players in control of their own spacecraft. Navigate through stunning nebulae, dodge asteroid fields, and uncover mysterious alien artifacts. Features realistic physics-based movement and breathtaking cosmic vistas.'
     },
     '/project-two': {
-      title: 'ZOMBIE PROJECT',
-      image: 'https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&q=80',
-      github: 'https://github.com/yourusername/zombie-project',
-      behance: 'https://www.behance.net/gallery/zombie-project',
-      description: 'A thrilling survival game developed in one week. Face hordes of zombies while managing resources and finding a way to escape.'
+      title: 'ECHO WARRIORS',
+      image: 'https://images.unsplash.com/photo-1514533212735-5df27d970db9?auto=format&fit=crop&q=80',
+      github: 'https://github.com/yourusername/echo-warriors',
+      behance: 'https://www.behance.net/gallery/echo-warriors',
+      description: 'A revolutionary rhythm-combat game where music shapes the battlefield. Players must sync their attacks with the beat while navigating procedurally generated arenas. Features unique character classes, each with their own musical combat style, and a dynamic multiplayer system.'
     }
   };
 

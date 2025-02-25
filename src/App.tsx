@@ -22,6 +22,8 @@ function App() {
         <Route path="/mama-quack" element={<SaifPage />} />
         <Route path="/erthna" element={<SaifPage />} />
         <Route path="/zombie-project" element={<SaifPage />} />
+        <Route path="/project-one" element={<SaifPage />} />
+        <Route path="/project-two" element={<SaifPage />} />
       </Routes>
       <footer className="bg-tactical-black text-white py-6">
         <div className="container mx-auto px-6 text-center font-military">
