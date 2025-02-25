@@ -32,6 +32,20 @@ export default function SaifPage() {
       github: 'https://github.com/yourusername/zombie-project',
       behance: 'https://www.behance.net/gallery/zombie-project',
       description: 'A thrilling survival game developed in one week. Face hordes of zombies while managing resources and finding a way to escape.'
+    },
+    '/project-one': {
+      title: 'ZOMBIE PROJECT',
+      image: 'https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&q=80',
+      github: 'https://github.com/yourusername/zombie-project',
+      behance: 'https://www.behance.net/gallery/zombie-project',
+      description: 'A thrilling survival game developed in one week. Face hordes of zombies while managing resources and finding a way to escape.'
+    },
+    '/project-two': {
+      title: 'ZOMBIE PROJECT',
+      image: 'https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&q=80',
+      github: 'https://github.com/yourusername/zombie-project',
+      behance: 'https://www.behance.net/gallery/zombie-project',
+      description: 'A thrilling survival game developed in one week. Face hordes of zombies while managing resources and finding a way to escape.'
     }
   };
 
